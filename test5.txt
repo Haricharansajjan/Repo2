@@ -1,0 +1,10 @@
+ Volume in drive C is Windows
+ Volume Serial Number is C65D-9667
+
+ Directory of C:\Users\gandl\Desktop\My project
+
+12-07-2022  09:00 AM    <DIR>          .
+12-07-2022  08:59 AM    <DIR>          ..
+12-07-2022  09:00 AM                 0 test5.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  170,022,871,040 bytes free
